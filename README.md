@@ -1,104 +1,142 @@
-<h1 align="center">👋 Hi, I'm Sayan</h1>
-<h3 align="center">🚀 Freelance Full Stack Developer | React • Next.js • Express</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=banerjee-aot&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
 
----
+# 👨‍💻 Hi, I'm Sayan 🚀
 
-## ⚡ About Me
+### ⚡ Freelance Full Stack Developer | React • Next.js • Express
 
-- 💼 Freelance Developer building **fast, scalable web applications**
-- 🎨 Strong focus on **UI/UX & clean design systems**
-- ⚙️ Working with **React, Next.js & Express**
-- 🧠 Growing in **Microservices, System Design & Authentication**
-- 📫 Reach me: **sayan.banerjee.work@gmail.com**
+<img src="https://komarev.com/ghpvc/?username=banerjee-aot&label=Profile%20views&color=0e75b6&style=flat" />
+
+</div>
 
 ---
 
-## 🧠 Tech Stack
+## 💼 🚀 Professional Overview
+
+<div align="center">
+
+### 🔥 What I Do
+- 💼 Freelance Developer building **modern, scalable web apps**
+- ⚡ Specialized in **React & Next.js frontend systems**
+- 🔧 Backend development using **Node.js & Express**
+- 🧠 Exploring **Microservices, System Design & Authentication**
+
+</div>
+
+---
+
+## 🧠 ⚙️ Tech Stack
+
+<div align="center">
 
 ### 💻 Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,sass" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,sass" />
 
 ### ⚙️ Backend & Database
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 
 ### 🛠️ Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,linux,python,java" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,figma,linux,python,java" />
+
+</div>
 
 ---
 
-## 🔥 What I Build
+## 🎯 🚀 Current Focus
 
-✨ High-performance **React / Next.js applications**  
-✨ Clean & scalable **REST APIs with Express**  
-✨ Responsive, modern **UI/UX experiences**  
-✨ Learning **Microservices architecture & backend scaling**
+<div align="center">
 
----
+| 🚀 Area | 🔥 Focus |
+|--------|--------|
+| Frontend | React, Next.js, Performance |
+| Backend | Express APIs, Auth Systems |
+| System Design | Microservices Basics |
+| UI/UX | Clean Design Systems |
 
-## 🧩 Core Skills
-
-- ⚡ Frontend Engineering (React, Next.js)
-- 🎨 UI/UX Design (Figma, Design Systems)
-- 🔐 Authentication (JWT, Basics)
-- 🧱 Scalable Project Structure & Clean Code
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 ⚡ GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=banerjee-aot&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=banerjee-aot&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=banerjee-aot&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=banerjee-aot&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=banerjee-aot&theme=tokyonight&hide_border=true" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=banerjee-aot&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+
+</div>
 
 ---
 
-## 🏆 Achievements
+## 🏆 ⚡ Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=banerjee-aot&theme=tokyonight&no-frame=true&row=2&column=3" />
-</p>
+<div align="center">
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=banerjee-aot&theme=tokyonight&no-frame=true&row=2&column=3" />
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/sayan-banerjee-094600241">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:sayan.banerjee.work@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
+</div>
 
 ---
 
-## 🎮 Developer Mode
+## 🎮 🧩 Developer Mode
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280" />
-</p>
+<div align="center">
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
+
+</div>
 
 ---
 
-## ⚡ Mindset
+## 🌐 🤝 Connect With Me
 
-> "Build. Break. Learn. Scale. 🚀"
+<div align="center">
+
+<a href="https://linkedin.com/in/sayan-banerjee-094600241">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:sayan.banerjee.work@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</div>
+
+---
+
+## ⚡ 🧠 Mindset
+
+<div align="center">
+
+> 💡 "Build. Break. Learn. Scale. Repeat."
+
+</div>
+
+---
+
+## 🚀 🎯 2026 Goals
+
+<div align="center">
+
+| 🎯 Goal | 🚀 Plan |
+|--------|--------|
+| Full Stack Mastery | Build real-world projects |
+| Backend Depth | Auth + DB + APIs |
+| Freelancing | Work with real clients |
+| Open Source | Contribute & collaborate |
+
+</div>
+
+---
+
+<div align="center">
+
+### 💫 Thanks for visiting! ⭐
+
+*"Building scalable experiences, one line of code at a time."*
+
+</div>
